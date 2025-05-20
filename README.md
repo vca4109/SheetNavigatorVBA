@@ -24,7 +24,7 @@ Components Breakdown:
 4) Standard Module Code. This module contains a single subroutine to launch the SheetNavigator form.
 
     Sub OpenSheetNavigator()
-        SheetNavigator.Show
+           SheetNavigator.Show
     End Sub
 
 How It Works;
